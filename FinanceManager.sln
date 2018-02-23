@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceManager", "FinanceManager\FinanceManager.csproj", "{79583D1F-8B43-437D-AEE4-15C1100F2926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{8A0F8F45-B44A-479E-9965-D3659C48D0EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{7D85F122-9E85-48E2-B588-26AC8B35032E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79583D1F-8B43-437D-AEE4-15C1100F2926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79583D1F-8B43-437D-AEE4-15C1100F2926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79583D1F-8B43-437D-AEE4-15C1100F2926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79583D1F-8B43-437D-AEE4-15C1100F2926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A0F8F45-B44A-479E-9965-D3659C48D0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0F8F45-B44A-479E-9965-D3659C48D0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0F8F45-B44A-479E-9965-D3659C48D0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0F8F45-B44A-479E-9965-D3659C48D0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D85F122-9E85-48E2-B588-26AC8B35032E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D85F122-9E85-48E2-B588-26AC8B35032E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D85F122-9E85-48E2-B588-26AC8B35032E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D85F122-9E85-48E2-B588-26AC8B35032E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F4DC1CD-E89E-4230-BCB7-E708E038554E}
+	EndGlobalSection
+EndGlobal

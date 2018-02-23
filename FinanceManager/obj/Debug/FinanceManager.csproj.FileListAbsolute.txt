@@ -1,0 +1,9 @@
+c:\users\kim too flex\source\repos\FinanceManager\FinanceManager\bin\Debug\FinanceManager.exe.config
+c:\users\kim too flex\source\repos\FinanceManager\FinanceManager\bin\Debug\FinanceManager.exe
+c:\users\kim too flex\source\repos\FinanceManager\FinanceManager\bin\Debug\FinanceManager.pdb
+c:\users\kim too flex\source\repos\FinanceManager\FinanceManager\obj\Debug\FinanceManager.csprojResolveAssemblyReference.cache
+c:\users\kim too flex\source\repos\FinanceManager\FinanceManager\obj\Debug\FinanceManager.Properties.Resources.resources
+c:\users\kim too flex\source\repos\FinanceManager\FinanceManager\obj\Debug\FinanceManager.csproj.GenerateResource.Cache
+c:\users\kim too flex\source\repos\FinanceManager\FinanceManager\obj\Debug\FinanceManager.csproj.CoreCompileInputs.cache
+c:\users\kim too flex\source\repos\FinanceManager\FinanceManager\obj\Debug\FinanceManager.exe
+c:\users\kim too flex\source\repos\FinanceManager\FinanceManager\obj\Debug\FinanceManager.pdb

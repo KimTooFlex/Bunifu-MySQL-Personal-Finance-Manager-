@@ -1,0 +1,14 @@
+c:\users\kim too flex\source\repos\FinanceManager\Models\bin\Debug\Models.dll
+c:\users\kim too flex\source\repos\FinanceManager\Models\bin\Debug\Models.pdb
+c:\users\kim too flex\source\repos\FinanceManager\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+c:\users\kim too flex\source\repos\FinanceManager\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+c:\users\kim too flex\source\repos\FinanceManager\Models\obj\Debug\Models.dll
+c:\users\kim too flex\source\repos\FinanceManager\Models\obj\Debug\Models.pdb
+c:\users\kim too flex\source\repos\FinanceManager\Models\bin\Debug\Models.dll.config
+c:\users\kim too flex\source\repos\FinanceManager\Models\bin\Debug\Database.Helper.dll
+c:\users\kim too flex\source\repos\FinanceManager\Models\bin\Debug\MySql.Data.dll
+c:\users\kim too flex\source\repos\FinanceManager\Models\bin\Debug\Newtonsoft.Json.dll
+c:\users\kim too flex\source\repos\FinanceManager\Models\bin\Debug\Database.Helper.pdb
+c:\users\kim too flex\source\repos\FinanceManager\Models\bin\Debug\Database.Helper.dll.config
+c:\users\kim too flex\source\repos\FinanceManager\Models\bin\Debug\MySql.Data.xml
+c:\users\kim too flex\source\repos\FinanceManager\Models\bin\Debug\Newtonsoft.Json.xml
